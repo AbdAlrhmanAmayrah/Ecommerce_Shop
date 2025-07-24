@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oE/5YfMWZe0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.2\\microsoft.aspnetcore.openapi.9.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
