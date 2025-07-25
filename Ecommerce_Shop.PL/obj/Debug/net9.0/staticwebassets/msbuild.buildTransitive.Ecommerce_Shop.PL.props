@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ecommerce_Shop.PL.props" />
+</Project>

@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\bin\Debug\net9.0\Ecommerce_Shop.BLL.deps.json
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\bin\Debug\net9.0\Ecommerce_Shop.BLL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\bin\Debug\net9.0\Ecommerce_Shop.BLL.pdb
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\bin\Debug\net9.0\Ecommerce_Shop.DAL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\bin\Debug\net9.0\Ecommerce_Shop.DAL.pdb
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.sourcelink.json
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerc.AF2BD2BB.Up2Date
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\refint\Ecommerce_Shop.BLL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\Ecommerce_Shop.BLL.pdb
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.BLL\obj\Debug\net9.0\ref\Ecommerce_Shop.BLL.dll

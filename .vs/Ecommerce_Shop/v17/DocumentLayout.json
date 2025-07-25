@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.pl\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|solutionrelative:ecommerce_shop.pl\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|solutionrelative:ecommerce_shop.pl\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|solutionrelative:ecommerce_shop.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75260E7A-2BC9-4BA3-8C54-2881A04483E3}|Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75260E7A-2BC9-4BA3-8C54-2881A04483E3}|Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj|solutionrelative:ecommerce_shop.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75260E7A-2BC9-4BA3-8C54-2881A04483E3}|Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75260E7A-2BC9-4BA3-8C54-2881A04483E3}|Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj|solutionrelative:ecommerce_shop.dal\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0D0FF-256A-43CE-8DA1-42634D9BCEC8}|Ecommerce_Shop.BLL\\Ecommerce_Shop.BLL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.bll\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0D0FF-256A-43CE-8DA1-42634D9BCEC8}|Ecommerce_Shop.BLL\\Ecommerce_Shop.BLL.csproj|solutionrelative:ecommerce_shop.bll\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB0D0FF-256A-43CE-8DA1-42634D9BCEC8}|Ecommerce_Shop.BLL\\Ecommerce_Shop.BLL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB0D0FF-256A-43CE-8DA1-42634D9BCEC8}|Ecommerce_Shop.BLL\\Ecommerce_Shop.BLL.csproj|solutionrelative:ecommerce_shop.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.pl\\ecommerce_shop.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B70C87FF-D810-4F7F-AEAC-FF33076330DD}|Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj|solutionrelative:ecommerce_shop.pl\\ecommerce_shop.pl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75260E7A-2BC9-4BA3-8C54-2881A04483E3}|Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj|c:\\users\\lenovo\\desktop\\back-end\\project_ntier\\ecommerce_shop\\ecommerce_shop.dal\\ecommerce_shop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{75260E7A-2BC9-4BA3-8C54-2881A04483E3}|Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj|solutionrelative:ecommerce_shop.dal\\ecommerce_shop.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.PL\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Ecommerce_Shop.PL\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-25T02:21:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.PL\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Program.cs",
+              "RelativeToolTip": "Ecommerce_Shop.PL\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAQwCsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T02:21:16.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.PL\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Ecommerce_Shop.PL\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:48:42.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.BLL\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.BLL\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.BLL\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Ecommerce_Shop.BLL\\Services\\ICategoryService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:46:54.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.DAL\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.DAL\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.DAL\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Ecommerce_Shop.DAL\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T00:57:19.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Ecommerce_Shop.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowCEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:34:15.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Ecommerce_Shop.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T01:47:00.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ecommerce_Shop.PL.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj",
+              "RelativeToolTip": "Ecommerce_Shop.PL\\Ecommerce_Shop.PL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T01:48:16.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ecommerce_Shop.DAL.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj",
+              "RelativeDocumentMoniker": "Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\Back-End\\Project_Ntier\\Ecommerce_Shop\\Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj",
+              "RelativeToolTip": "Ecommerce_Shop.DAL\\Ecommerce_Shop.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T01:46:50.619Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

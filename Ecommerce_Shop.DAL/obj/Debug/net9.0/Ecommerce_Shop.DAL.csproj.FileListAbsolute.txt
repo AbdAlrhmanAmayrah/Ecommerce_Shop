@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\bin\Debug\net9.0\Ecommerce_Shop.DAL.deps.json
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\bin\Debug\net9.0\Ecommerce_Shop.DAL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\bin\Debug\net9.0\Ecommerce_Shop.DAL.pdb
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.sourcelink.json
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\refint\Ecommerce_Shop.DAL.dll
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\Ecommerce_Shop.DAL.pdb
+C:\Users\Lenovo\Desktop\Back-End\Project_Ntier\Ecommerce_Shop\Ecommerce_Shop.DAL\obj\Debug\net9.0\ref\Ecommerce_Shop.DAL.dll
